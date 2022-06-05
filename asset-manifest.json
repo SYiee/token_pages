@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/token_pages/static/css/main.c868e6c0.css",
+    "main.js": "/token_pages/static/js/main.4ff3abdb.js",
+    "static/media/twitter-logo.svg": "/token_pages/static/media/twitter-logo.a8a752547c2913d8bc15e5df109748a6.svg",
+    "index.html": "/token_pages/index.html",
+    "main.c868e6c0.css.map": "/token_pages/static/css/main.c868e6c0.css.map",
+    "main.4ff3abdb.js.map": "/token_pages/static/js/main.4ff3abdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c868e6c0.css",
+    "static/js/main.4ff3abdb.js"
+  ]
+}
